@@ -1,0 +1,2 @@
+# MyPrivateImagesUpload
+上传本地的图片用于生成url图床
